@@ -1,0 +1,14 @@
+C:\Users\kiril\Downloads\RandomDate\bin\Debug\net8.0\RandomDate.exe
+C:\Users\kiril\Downloads\RandomDate\bin\Debug\net8.0\RandomDate.deps.json
+C:\Users\kiril\Downloads\RandomDate\bin\Debug\net8.0\RandomDate.runtimeconfig.json
+C:\Users\kiril\Downloads\RandomDate\bin\Debug\net8.0\RandomDate.dll
+C:\Users\kiril\Downloads\RandomDate\bin\Debug\net8.0\RandomDate.pdb
+C:\Users\kiril\Downloads\RandomDate\obj\Debug\net8.0\RandomDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\Downloads\RandomDate\obj\Debug\net8.0\RandomDate.AssemblyInfoInputs.cache
+C:\Users\kiril\Downloads\RandomDate\obj\Debug\net8.0\RandomDate.AssemblyInfo.cs
+C:\Users\kiril\Downloads\RandomDate\obj\Debug\net8.0\RandomDate.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Downloads\RandomDate\obj\Debug\net8.0\RandomDate.dll
+C:\Users\kiril\Downloads\RandomDate\obj\Debug\net8.0\refint\RandomDate.dll
+C:\Users\kiril\Downloads\RandomDate\obj\Debug\net8.0\RandomDate.pdb
+C:\Users\kiril\Downloads\RandomDate\obj\Debug\net8.0\RandomDate.genruntimeconfig.cache
+C:\Users\kiril\Downloads\RandomDate\obj\Debug\net8.0\ref\RandomDate.dll
