@@ -1,0 +1,14 @@
+C:\Users\kiril\Downloads\ISBN-10\bin\Debug\net8.0\ISBN-10.exe
+C:\Users\kiril\Downloads\ISBN-10\bin\Debug\net8.0\ISBN-10.deps.json
+C:\Users\kiril\Downloads\ISBN-10\bin\Debug\net8.0\ISBN-10.runtimeconfig.json
+C:\Users\kiril\Downloads\ISBN-10\bin\Debug\net8.0\ISBN-10.dll
+C:\Users\kiril\Downloads\ISBN-10\bin\Debug\net8.0\ISBN-10.pdb
+C:\Users\kiril\Downloads\ISBN-10\obj\Debug\net8.0\ISBN-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\Downloads\ISBN-10\obj\Debug\net8.0\ISBN-10.AssemblyInfoInputs.cache
+C:\Users\kiril\Downloads\ISBN-10\obj\Debug\net8.0\ISBN-10.AssemblyInfo.cs
+C:\Users\kiril\Downloads\ISBN-10\obj\Debug\net8.0\ISBN-10.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Downloads\ISBN-10\obj\Debug\net8.0\ISBN-10.dll
+C:\Users\kiril\Downloads\ISBN-10\obj\Debug\net8.0\refint\ISBN-10.dll
+C:\Users\kiril\Downloads\ISBN-10\obj\Debug\net8.0\ISBN-10.pdb
+C:\Users\kiril\Downloads\ISBN-10\obj\Debug\net8.0\ISBN-10.genruntimeconfig.cache
+C:\Users\kiril\Downloads\ISBN-10\obj\Debug\net8.0\ref\ISBN-10.dll
